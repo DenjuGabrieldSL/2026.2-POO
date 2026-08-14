@@ -9,3 +9,6 @@ int main()   {
     cout << "Olá, " << nome << endl;
     return 0;  
 }
+
+// COMPILAR: g++ ex.cpp -o ex
+// EXECUTAR: ./ex

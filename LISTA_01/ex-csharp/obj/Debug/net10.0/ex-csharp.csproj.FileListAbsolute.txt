@@ -1,0 +1,15 @@
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/bin/Debug/net10.0/ex-csharp
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/bin/Debug/net10.0/ex-csharp.deps.json
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/bin/Debug/net10.0/ex-csharp.runtimeconfig.json
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/bin/Debug/net10.0/ex-csharp.dll
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/bin/Debug/net10.0/ex-csharp.pdb
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.AssemblyInfoInputs.cache
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.AssemblyInfo.cs
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.csproj.CoreCompileInputs.cache
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.sourcelink.json
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.dll
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/refint/ex-csharp.dll
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.pdb
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ex-csharp.genruntimeconfig.cache
+/workspaces/2026.2-POO/LISTA_01/ex-csharp/obj/Debug/net10.0/ref/ex-csharp.dll
